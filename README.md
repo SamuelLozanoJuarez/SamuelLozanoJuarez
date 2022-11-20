@@ -1,10 +1,10 @@
+![GitHub Profile Image](https://user-images.githubusercontent.com/80346399/202920854-b6cf5be7-ad62-44cf-81e1-dffe186fc691.png)
 ### Hey there!👋 I'm Samuel, welcome to my profile.
 ---
+
+
+
 <!--
-**SamuelLozanoJuarez/SamuelLozanoJuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
