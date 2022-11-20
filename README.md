@@ -1,9 +1,9 @@
 ![GitHub Profile Image](https://user-images.githubusercontent.com/80346399/202921115-676656f6-835b-4d23-b624-c5c4ec9febb5.png)
 # Hey there!👋 I'm Samuel, welcome to my profile.
----
 
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-lozano-ju%C3%A1rez-86642b250/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/samulj_00/)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
