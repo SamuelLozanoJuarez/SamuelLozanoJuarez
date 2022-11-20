@@ -1,4 +1,4 @@
-![GitHub Profile Image](https://user-images.githubusercontent.com/80346399/202920854-b6cf5be7-ad62-44cf-81e1-dffe186fc691.png)
+![GitHub Profile Image](https://user-images.githubusercontent.com/80346399/202921115-676656f6-835b-4d23-b624-c5c4ec9febb5.png)
 ### Hey there!👋 I'm Samuel, welcome to my profile.
 ---
 
