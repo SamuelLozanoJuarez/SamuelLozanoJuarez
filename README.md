@@ -2,6 +2,7 @@
 # Hey there!👋 I'm Samuel, welcome to my profile.
 
 👦 **A few things about me:**
+
 I am a student of the Bioengineering bachelor at the University of Burgos.
  - 👨‍💻 I'm currently working in the field of convolutional neural networks applied to healthcare.
  - 🤓 I'm interested in precision medicine, multi-omics data analysis and the use of AI models for medical diagnosis.
