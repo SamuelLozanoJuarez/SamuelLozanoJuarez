@@ -4,7 +4,7 @@
 ### 👦 **A few things about me:**
 
 I hold a degree in Bioengineering from the University of Burgos and a Master's in Bioinformatics from the University of Valencia.
- - 👨‍💻 I'm currently working on my PhD in Bioinformatics, focusing on Cardiovascular Proteomics, at the Spanish National Centre for Cardiovascular Resarch (CNIC).
+ - 👨‍💻 I'm currently working on my PhD in Bioinformatics, focusing on Cardiovascular Proteomics, at the Spanish National Centre for Cardiovascular Research (CNIC).
  - 🤓 I'm interested in precision medicine, multi-omics data analysis and the use of AI models for medical diagnosis.
  - 🤝 I've collaborated with the Applied Computational Intelligence Group (GICAP) of the University of Burgos, the Research Unit of the University Hospital of Burgos and the Physiology area of the University of Burgos.
  - 📫 You can reach me at samuellozanojuarez@gmail.com
